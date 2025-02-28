@@ -1,3 +1,4 @@
+#Código para somar um número a todos os seus antecessores
 n=int(input('Qual o número: '))
 soma=0
 c=0
